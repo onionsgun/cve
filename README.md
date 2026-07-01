@@ -1,12 +1,4 @@
-# CyberEDU and Web Pentest CTF Solutions
 
-A cleaned, consolidated handout built from the PowerPoint walkthroughs and the four web_pen writeups added by the user.
-
-> Use these steps only against your own authorized CyberEDU or CTF lab instances. If a target rotates, replace only the host:port and keep the exploit flow the same.
-
-## Contents
-
-- [Part I - CyberEDU Exploitation Labs](#part-i---cyberedu-exploitation-labs)
 - [1. Bolt](#1-bolt)
 - [2. Elastic](#2-elastic)
 - [3. libssh](#3-libssh)
